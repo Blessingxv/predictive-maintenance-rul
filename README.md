@@ -1,4 +1,4 @@
-# Predictive Maintenance — Remaining Useful Life Prediction
+# Predictive Maintenance - Remaining Useful Life Prediction
 
 A machine learning project for predicting the Remaining Useful Life (RUL) of turbofan engines using the NASA C-MAPSS dataset.
 
@@ -63,8 +63,8 @@ The next stage is to develop a neural network using PyTorch and compare its perf
 
 ```text
 predictive-maintenance-rul/
-├── notebooks/
-│   └── 01_eda.ipynb
-├── .gitignore
-├── README.md
-└── requirements.txt
+notebooks/
+      01_eda.ipynb
+  .gitignore
+  README.md
+  requirements.txt
