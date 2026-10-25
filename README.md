@@ -46,7 +46,7 @@ These results establish a working machine learning baseline, **not a model ready
 
 ## Dataset
 
-**Dataset:** NASA C-MAPSS — FD001
+**Dataset:** NASA C-MAPSS - FD001
 
 The dataset contains simulated degradation measurements from turbofan engines.
 
